@@ -1,0 +1,3352 @@
+[
+ {
+  "id": "a3k9qm",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What's the app on your phone you'd least want me to see?"
+ },
+ {
+  "id": "b7m2xr",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do you keep buying and never actually use?"
+ },
+ {
+  "id": "c2p5tw",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What's the real first thing you do when you wake up?"
+ },
+ {
+  "id": "d8r1vz",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What's the last thing you overpaid for and knew it?"
+ },
+ {
+  "id": "w1a2bc",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "How many times do you actually hit snooze?"
+ },
+ {
+  "id": "w2b3cd",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "How many tabs are open on your phone right now?"
+ },
+ {
+  "id": "w3c4de",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do you do when nobody's home?"
+ },
+ {
+  "id": "w4d5ef",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "When you're procrastinating, what do you actually do?"
+ },
+ {
+  "id": "w5e6fg",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What sound instantly gets on your nerves?"
+ },
+ {
+  "id": "w6f7gh",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "One food for an entire day — what is it?"
+ },
+ {
+  "id": "w7g8hi",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "How long do you think about something before you buy it?"
+ },
+ {
+  "id": "e4t7bn",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you judge someone on in the first ten seconds?"
+ },
+ {
+  "id": "f9w3hd",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's a completely useless talent you have?"
+ },
+ {
+  "id": "g5y8jk",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What drives you insane that everyone else finds normal?"
+ },
+ {
+  "id": "h1z4lp",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What will you start talking about without being asked?"
+ },
+ {
+  "id": "j6b0nq",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How do your friends introduce you to people?"
+ },
+ {
+  "id": "w8h9ij",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What useless thing are you basically an expert in?"
+ },
+ {
+  "id": "w9i0jk",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you love that nobody else gets?"
+ },
+ {
+  "id": "x1j1kl",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What makes you laugh that you'd be embarrassed to admit?"
+ },
+ {
+  "id": "x2k2lm",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you think you're good at but probably aren't?"
+ },
+ {
+  "id": "x3l3mn",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do people keep giving you advice about?"
+ },
+ {
+  "id": "x4m4no",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When did you last completely misread a situation?"
+ },
+ {
+  "id": "x5n5op",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you carry around that nobody knows about?"
+ },
+ {
+  "id": "x6o6pq",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Where do you feel most like yourself?"
+ },
+ {
+  "id": "x7p7qr",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Besides \"I'm fine\", what's your most frequent small lie?"
+ },
+ {
+  "id": "x8q8rs",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When did you last try something you'd never done?"
+ },
+ {
+  "id": "x9r9st",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When plans get cancelled, what actually goes through your head?"
+ },
+ {
+  "id": "y2t2uv",
+  "level": 1,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "What's the most overrated tradition where you grew up?"
+ },
+ {
+  "id": "k3d6rs",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "What was going through your head on the way out the door today?"
+ },
+ {
+  "id": "m8f2vt",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Which one is more you?",
+  "options": [
+   "Everything planned",
+   "Nothing planned"
+  ]
+ },
+ {
+  "id": "n4h9wx",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "You've got a free evening.",
+  "options": [
+   "Quiet, just two of us",
+   "A loud full table"
+  ]
+ },
+ {
+  "id": "y3u3vw",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Which are you?",
+  "options": [
+   "Morning person",
+   "Night person"
+  ]
+ },
+ {
+  "id": "y4v4wx",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Which?",
+  "options": [
+   "Text",
+   "Call"
+  ]
+ },
+ {
+  "id": "y5w5xy",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Which?",
+  "options": [
+   "I show up early",
+   "I show up exactly on time"
+  ]
+ },
+ {
+  "id": "y6x6yz",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "I'm the one who cancels",
+   "I'm the one who gets cancelled on"
+  ]
+ },
+ {
+  "id": "y7y7za",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "In a crowd I go quiet",
+   "In a crowd I talk"
+  ]
+ },
+ {
+  "id": "p7j5yz",
+  "level": 1,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "Ten seconds — name three things that made you laugh this week."
+ },
+ {
+  "id": "y8z8ab",
+  "level": 1,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "Ten seconds — describe today in three words."
+ },
+ {
+  "id": "q2l1ab",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Count to three, then both say the first thing you noticed in here."
+ },
+ {
+  "id": "z1a1bc",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "At the same time — guess what the other one does for a living."
+ },
+ {
+  "id": "z2b2cd",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "On three, both describe this place in one word."
+ },
+ {
+  "id": "z3c3de",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "At the same time — guess how many siblings the other has."
+ },
+ {
+  "id": "z4d4ef",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both guess the other's favorite season."
+ },
+ {
+  "id": "z5e5fg",
+  "level": 1,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Pick something you can see from here. Why that?"
+ },
+ {
+  "id": "r9n7cd",
+  "level": 1,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Show the last photo you took. No explaining it."
+ },
+ {
+  "id": "a5v3ef",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What did you want to be as a kid, and when did you let it go?"
+ },
+ {
+  "id": "b1x8gh",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What did you spend your first paycheck on?"
+ },
+ {
+  "id": "c7z4ij",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What's a place that surprised you more than you expected?"
+ },
+ {
+  "id": "aa1b2c",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What sound filled the house you grew up in?"
+ },
+ {
+  "id": "aa2c3d",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What's the first thing you ever did completely alone?"
+ },
+ {
+  "id": "aa3d4e",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What job would you have tried and never did?"
+ },
+ {
+  "id": "aa4e5f",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Who in your family are you most like?"
+ },
+ {
+  "id": "aa5f6g",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Where would you feel at home no matter what?"
+ },
+ {
+  "id": "d3b9kl",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's a habit you picked up at home and never questioned?"
+ },
+ {
+  "id": "e9d5mn",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If you could take one thing from where you grew up, what would it be?"
+ },
+ {
+  "id": "f4f1op",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What are you proud of that nobody really notices?"
+ },
+ {
+  "id": "g8h6qr",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Who shaped you without ever knowing it?"
+ },
+ {
+  "id": "aa6g7h",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What scared you as a kid?"
+ },
+ {
+  "id": "aa7h8i",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When did you first feel like an adult?"
+ },
+ {
+  "id": "aa8i9j",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which trip changed you the most?"
+ },
+ {
+  "id": "aa9j0k",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What have you stuck with the longest?"
+ },
+ {
+  "id": "ab1k1l",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Who put real work in, just for you?"
+ },
+ {
+  "id": "ab2l2m",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What did you have to give up?"
+ },
+ {
+  "id": "ab3m3n",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How do you know when something's over?"
+ },
+ {
+  "id": "ab4n4o",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which stretch of your life would you live again, unchanged?"
+ },
+ {
+  "id": "ab5o5p",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's the best decision you've made so far?"
+ },
+ {
+  "id": "ab6p6q",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's a small habit you've never told anyone about?"
+ },
+ {
+  "id": "ab7q7r",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How would someone who knows you well describe you?"
+ },
+ {
+  "id": "h4k8uv",
+  "level": 2,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "What was your whole town obsessed with when you were growing up?"
+ },
+ {
+  "id": "ab9s9t",
+  "level": 2,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "Where did your family drive to every single year?"
+ },
+ {
+  "id": "ac2u2v",
+  "level": 2,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "How did prom actually go?"
+ },
+ {
+  "id": "j6l7wx",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What decision changed your life without you noticing at the time?"
+ },
+ {
+  "id": "k1n3yz",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What were you once certain about and don't think about anymore?"
+ },
+ {
+  "id": "ac3v3w",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What did nobody talk about at home?"
+ },
+ {
+  "id": "ac4w4x",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What did learning something end up costing you?"
+ },
+ {
+  "id": "m7p9ab",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which explains you better?",
+  "options": [
+   "Where I grew up",
+   "Where I chose to be"
+  ]
+ },
+ {
+  "id": "ac5x5y",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Which?",
+  "options": [
+   "Go back",
+   "See ahead"
+  ]
+ },
+ {
+  "id": "ac6y6z",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Know a lot about a little",
+   "Know a little about a lot"
+  ]
+ },
+ {
+  "id": "ac7z7a",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Same place for years",
+   "A new city every few years"
+  ]
+ },
+ {
+  "id": "ac8a8b",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Turn out like my family",
+   "Turn out nothing like them"
+  ]
+ },
+ {
+  "id": "ac9b9c",
+  "level": 2,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "Ten seconds — name three places that explain you."
+ },
+ {
+  "id": "n3r5gh",
+  "level": 2,
+  "type": "timed",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "seconds": 20,
+  "skippable": true,
+  "text": "Twenty seconds — tell your whole life in three sentences."
+ },
+ {
+  "id": "p9t1cd",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "On three, both guess where the other one grew up."
+ },
+ {
+  "id": "ad1c1d",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "At the same time — guess what kind of kid the other one was."
+ },
+ {
+  "id": "ad2d2e",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "On three, both guess the other's first job."
+ },
+ {
+  "id": "ad3e3f",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time — guess what the other has stuck with longest."
+ },
+ {
+  "id": "ad4f4g",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "On three, both say the most surprising thing you learned tonight."
+ },
+ {
+  "id": "q5v6ef",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Find the oldest photo on your phone. What's the story?"
+ },
+ {
+  "id": "ad5g5h",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Play the first ten seconds of a song that means something to you."
+ },
+ {
+  "id": "ad6h6i",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "If something's been in your bag or pocket forever — show it."
+ },
+ {
+  "id": "ad7i7j",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Jump to a random month in your photos and tell me about the first one."
+ },
+ {
+  "id": "ad8j8k",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Who texts you most?"
+ },
+ {
+  "id": "a2k7ij",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What would you change about yourself if trying again felt worth it?"
+ },
+ {
+  "id": "b8m3kl",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do people most often get wrong about you?"
+ },
+ {
+  "id": "ae1a1b",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do you actually do when someone compliments you?"
+ },
+ {
+  "id": "ae2b2c",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What's the first thing you do when you mess up?"
+ },
+ {
+  "id": "ae3c3d",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What still makes you feel like a kid?"
+ },
+ {
+  "id": "c4p9mn",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's a small fear you've never said out loud?"
+ },
+ {
+  "id": "d1r5op",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you act more sure about than you actually are?"
+ },
+ {
+  "id": "e7t1qr",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How do you know when someone actually cares about you?"
+ },
+ {
+  "id": "f3w8st",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's your first instinct when someone gets close?"
+ },
+ {
+  "id": "g9y4uv",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What are you hardest on yourself about?"
+ },
+ {
+  "id": "ae4d4e",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How long does it take you to trust someone?"
+ },
+ {
+  "id": "ae5e5f",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What side of you does nobody get to see?"
+ },
+ {
+  "id": "ae6f6g",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What does it take for you to say you need something?"
+ },
+ {
+  "id": "ae7g7h",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What actually comforts you that you'd never tell anyone?"
+ },
+ {
+  "id": "ae8h8i",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When do you feel most alone?"
+ },
+ {
+  "id": "ae9i9j",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What makes you feel most misunderstood?"
+ },
+ {
+  "id": "af1j1k",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When did your opinion of yourself last change?"
+ },
+ {
+  "id": "h5z0wx",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "When did you last cry in front of someone?"
+ },
+ {
+  "id": "j2b6yz",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What's something you've wanted to say to someone and never did?"
+ },
+ {
+  "id": "af2k2l",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What's hardest for you to admit?"
+ },
+ {
+  "id": "af3l3m",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What do you catch yourself repeating with people?"
+ },
+ {
+  "id": "af4m4n",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "If someone really saw you, what would they see?"
+ },
+ {
+  "id": "k8d2ab",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which is harder?",
+  "options": [
+   "Forgiving",
+   "Forgetting"
+  ]
+ },
+ {
+  "id": "m4f7cd",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which one are you?",
+  "options": [
+   "I open up first",
+   "I wait for them to"
+  ]
+ },
+ {
+  "id": "af5n5o",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Being alone",
+   "Being with the wrong person"
+  ]
+ },
+ {
+  "id": "af6o6p",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Being misunderstood",
+   "Being overlooked"
+  ]
+ },
+ {
+  "id": "n1h3ef",
+  "level": 3,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 15,
+  "skippable": true,
+  "text": "Fifteen seconds — name three things you like about yourself."
+ },
+ {
+  "id": "af7p7q",
+  "level": 3,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 15,
+  "skippable": true,
+  "text": "Fifteen seconds — name three things you learned about yourself this year."
+ },
+ {
+  "id": "q3l5gh",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Both say it at once — the first impression you think you got wrong."
+ },
+ {
+  "id": "af8q8r",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both guess what the other one holds back from."
+ },
+ {
+  "id": "af9r9s",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time — say what you think the other has noticed about you."
+ },
+ {
+  "id": "ag1s1t",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say what you need most right now."
+ },
+ {
+  "id": "ag2t2u",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "At the same time — say when you felt most at ease at this table."
+ },
+ {
+  "id": "p7j9kl",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "On three, both say the sentence going through your head right now."
+ },
+ {
+  "id": "r9n1ij",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Tell them one thing you noticed about them today."
+ },
+ {
+  "id": "ag3u3v",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Tell them something about yourself you haven't said yet."
+ },
+ {
+  "id": "ag4v4w",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Close your eyes and say what you're feeling in one sentence."
+ },
+ {
+  "id": "ag5w5x",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ask them whether there's something they've got wrong about you."
+ },
+ {
+  "id": "ag6x6y",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Turn your phone face down and leave it that way for a few cards."
+ },
+ {
+  "id": "ag7y7z",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Say the thing you've been holding back tonight."
+ },
+ {
+  "id": "a6v2mn",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What went through your head the first time you saw me?"
+ },
+ {
+  "id": "b2x8op",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "How do you give it away when you like someone?"
+ },
+ {
+  "id": "d4b0qr",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "When it isn't looks, what pulls you toward someone?"
+ },
+ {
+  "id": "ah1a1b",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do you notice first: someone's voice, their hands, or their eyes?"
+ },
+ {
+  "id": "ah2b2c",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What actually makes a good first impression?"
+ },
+ {
+  "id": "e0d6st",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's gone differently tonight than you expected?"
+ },
+ {
+  "id": "s1a4uv",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you pay most attention to when you first talk to someone?"
+ },
+ {
+  "id": "s2b5wx",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When do you know someone's into you?"
+ },
+ {
+  "id": "s3c6yz",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Does silence with someone make you uneasy or comfortable?"
+ },
+ {
+  "id": "s4d7ab",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When do you feel most attractive?"
+ },
+ {
+  "id": "ah3c3d",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When someone gets to you, do you talk more or less?"
+ },
+ {
+  "id": "ah4d4e",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How long before you feel relaxed around someone?"
+ },
+ {
+  "id": "ah5e5f",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What would you most want someone to notice about you?"
+ },
+ {
+  "id": "ah6f6g",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What do you do when you catch someone being interested?"
+ },
+ {
+  "id": "ah7g7h",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Do you know how to flirt, or does it just happen?"
+ },
+ {
+  "id": "ah8h8i",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How fast do your friends notice before you do?"
+ },
+ {
+  "id": "ah9i9j",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "What kind of person did you take me for tonight?"
+ },
+ {
+  "id": "g2h8cd",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which one lands harder?",
+  "options": [
+   "A look",
+   "A silence"
+  ]
+ },
+ {
+  "id": "s5e8ef",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which is harder?",
+  "options": [
+   "Making the first move",
+   "Waiting"
+  ]
+ },
+ {
+  "id": "ai1j1k",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Being told straight out",
+   "Being left to figure it out"
+  ]
+ },
+ {
+  "id": "ai2k2l",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Slow build",
+   "Instant spark"
+  ]
+ },
+ {
+  "id": "h8j4gh",
+  "level": 4,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — name the first thing you noticed about me. Don't think."
+ },
+ {
+  "id": "ai3l3m",
+  "level": 4,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — name the most surprising thing about me tonight."
+ },
+ {
+  "id": "j4l0ij",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "At the same time — say the best moment of tonight."
+ },
+ {
+  "id": "s6f9kl",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say something the other said tonight that stuck."
+ },
+ {
+  "id": "ai4m4n",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time: guess what the other thought when they first saw you."
+ },
+ {
+  "id": "ai5n5o",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say the other's most attractive habit."
+ },
+ {
+  "id": "ai6o6p",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time — describe each other in one word."
+ },
+ {
+  "id": "m6p2mn",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Give them a compliment that isn't about how they look."
+ },
+ {
+  "id": "ai7p7q",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Name a habit of theirs you noticed tonight."
+ },
+ {
+  "id": "ai8q8r",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them, count to three, then say what you see."
+ },
+ {
+  "id": "ai9r9s",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Say what you think they think of you."
+ },
+ {
+  "id": "aj1s1t",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Think of the moment you laughed most tonight and tell them."
+ },
+ {
+  "id": "aj2t2u",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Make a guess about them. Let them tell you if you're right."
+ },
+ {
+  "id": "p8t4op",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Close your eyes and describe the first image from tonight that comes up."
+ },
+ {
+  "id": "c8z4qr",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What about me are you still noticing?"
+ },
+ {
+  "id": "a7k3st",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What does it feel like the moment you realize someone's into you?"
+ },
+ {
+  "id": "aj3a1b",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "When did you notice yourself relaxing at this table?"
+ },
+ {
+  "id": "t1g2uv",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When did you have to stop looking at me tonight?"
+ },
+ {
+  "id": "b3m9wx",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When do you usually notice what's drawing you to someone?"
+ },
+ {
+  "id": "t2h3yz",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If you had to guess what I'm thinking right now, what would you say?"
+ },
+ {
+  "id": "aj4b2c",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If you had to describe what's happening between us, what would you say?"
+ },
+ {
+  "id": "aj5c3d",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Do you wonder what I'm thinking when I look at you?"
+ },
+ {
+  "id": "aj6d4e",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which of us is giving more away?"
+ },
+ {
+  "id": "aj7e5f",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How would you describe tonight to someone who doesn't know me?"
+ },
+ {
+  "id": "aj8f6g",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If you wanted to surprise me tonight, what would you do?"
+ },
+ {
+  "id": "f6f2ab",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What do you try hardest to hide when you're interested in someone?"
+ },
+ {
+  "id": "t3j4cd",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What did you think about saying tonight and didn't?"
+ },
+ {
+  "id": "aj9g7h",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What are you most hesitant to say to me tonight?"
+ },
+ {
+  "id": "t4k5ef",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Right now?",
+  "options": [
+   "Slow it down",
+   "Speed it up"
+  ]
+ },
+ {
+  "id": "ak1h8i",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Eye contact",
+   "Touch"
+  ]
+ },
+ {
+  "id": "ak2i9j",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Showing it",
+   "Hiding it"
+  ]
+ },
+ {
+  "id": "ak3j1k",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Which?",
+  "options": [
+   "You say it",
+   "I'll say it"
+  ]
+ },
+ {
+  "id": "t5m6gh",
+  "level": 5,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — say one word for tonight."
+ },
+ {
+  "id": "ak4k2l",
+  "level": 5,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — say what's in your head. Don't filter it."
+ },
+ {
+  "id": "k0n6ij",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say what you find most attractive about the other."
+ },
+ {
+  "id": "ak5l3m",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time — guess what the other is thinking right now."
+ },
+ {
+  "id": "ak6m4n",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say the moment tonight you felt closest."
+ },
+ {
+  "id": "t6n7kl",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "At the same time — say what you noticed tonight and didn't mention."
+ },
+ {
+  "id": "ak7n5o",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "At the same time — one word for what you're feeling right now."
+ },
+ {
+  "id": "k1d7mn",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Ask them what your face just did while you read this."
+ },
+ {
+  "id": "ak8o6p",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Tell them what caught your attention most tonight."
+ },
+ {
+  "id": "m7f3op",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them, count to five, then say the first thing that comes up."
+ },
+ {
+  "id": "ak9p7q",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them and hold it to five without smiling."
+ },
+ {
+  "id": "al1q8r",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Stop talking and just look, until they say something."
+ },
+ {
+  "id": "al2r9s",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Say one sentence about tonight. Not a question."
+ },
+ {
+  "id": "al3s1t",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "If you want, turn your chair a little toward them."
+ },
+ {
+  "id": "al4t2u",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, put your hand on the table and wait."
+ },
+ {
+  "id": "r0x6qr",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, rest your hand on the table, an inch from theirs."
+ },
+ {
+  "id": "q4v0st",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you're both up for it: ten seconds of eye contact, no talking."
+ },
+ {
+  "id": "cg1a1b",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what's happening between us right now."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Hold the look a second longer."
+   }
+  ]
+ },
+ {
+  "id": "cg2b2c",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what surprised you about me tonight."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Move your hand closer on the table."
+   }
+  ]
+ },
+ {
+  "id": "cg3c3d",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you're thinking right now."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Let me read it off your face."
+   }
+  ]
+ },
+ {
+  "id": "cg4d4e",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Describe the distance between us."
+   },
+   {
+    "kind": "do",
+    "text": "Don't describe it. Show it with your hand."
+   }
+  ]
+ },
+ {
+  "id": "u1a2uv",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If tonight had no rules, what's the first thing you'd change?"
+ },
+ {
+  "id": "u2b3wx",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What would happen if you just said what you're thinking?"
+ },
+ {
+  "id": "u3c4yz",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If we'd agreed tonight to just stay friends, who'd break it first?"
+ },
+ {
+  "id": "u4d5ab",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If you'd thought about kissing me, when would it first have been?"
+ },
+ {
+  "id": "am1a1b",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How do you act when you want something badly?"
+ },
+ {
+  "id": "am2b2c",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which is harder for you to say — \"I want to\" or \"I don't\"?"
+ },
+ {
+  "id": "u5e6cd",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "If no one would ever know, what would you do tonight?"
+ },
+ {
+  "id": "u6f7ef",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "If you got tonight again, what would you do sooner?"
+ },
+ {
+  "id": "am3c3d",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What do you want tonight that you don't think will happen?"
+ },
+ {
+  "id": "f7w3gh",
+  "level": 6,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which gets to you more?",
+  "options": [
+   "Waiting",
+   "Not knowing"
+  ]
+ },
+ {
+  "id": "u7g8ij",
+  "level": 6,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which one more?",
+  "options": [
+   "Saying it",
+   "Hearing it"
+  ]
+ },
+ {
+  "id": "g0y4kl",
+  "level": 6,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — give a sentence that starts with \"I wish\"."
+ },
+ {
+  "id": "am4d4e",
+  "level": 6,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — what would you want out of tonight? Don't think."
+ },
+ {
+  "id": "am5e5f",
+  "level": 6,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "Ten seconds — describe tonight the way you'd want it."
+ },
+ {
+  "id": "h6z0mn",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say what stuck with you about the other."
+ },
+ {
+  "id": "am6f6g",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time — which moment of tonight you'd live again."
+ },
+ {
+  "id": "am7g7h",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "On three, both guess what the other one wants."
+ },
+ {
+  "id": "j2b6op",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "At the same time — the thing you thought tonight and didn't say."
+ },
+ {
+  "id": "am8h8i",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "At the same time — say what you want to happen tonight."
+ },
+ {
+  "id": "k8d2qr",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them and start a sentence with \"right now\"."
+ },
+ {
+  "id": "n3h9st",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Close your eyes. Let them say one sentence. Just listen."
+ },
+ {
+  "id": "am9i9j",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them and say a sentence that starts with \"I wish\"."
+ },
+ {
+  "id": "an1j1k",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Say a sentence that ends with \"I'd want that\"."
+ },
+ {
+  "id": "an2k2l",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Close your eyes and say what you want in one word."
+ },
+ {
+  "id": "an3l3m",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Whisper something to them — but make it a question."
+ },
+ {
+  "id": "an4m4n",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, hold out your hand and say nothing."
+ },
+ {
+  "id": "an5n5o",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, put your hand on the table, palm up."
+ },
+ {
+  "id": "q2l6uv",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Don't say it — write it on their hand with your finger."
+ },
+ {
+  "id": "an6o6p",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, move your chair a step closer."
+ },
+ {
+  "id": "r8n2wx",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you're both up for it: close half the distance and keep talking."
+ },
+ {
+  "id": "ch1a1b",
+  "level": 6,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "If nobody could see, what would you do tonight?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Reach your hand toward me."
+   }
+  ]
+ },
+ {
+  "id": "ch2b2c",
+  "level": 6,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "If you could ask for one thing now, what?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Show it with your eyes."
+   }
+  ]
+ },
+ {
+  "id": "ch3c3d",
+  "level": 6,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "If we weren't here, where would we be?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Take my hand and stay there."
+   }
+  ]
+ },
+ {
+  "id": "v1a2yz",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What would happen if I kissed you right now?"
+ },
+ {
+  "id": "v2b3ab",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "When we get up from this table, what do you want to happen?"
+ },
+ {
+  "id": "v3c4cd",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Do you know what you want right now?"
+ },
+ {
+  "id": "ao1a1b",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What could I ask you right now that you wouldn't answer?"
+ },
+ {
+  "id": "v4d5ef",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Who should close the distance between us right now?"
+ },
+ {
+  "id": "v5e6gh",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What makes you say stop?"
+ },
+ {
+  "id": "v6f7ij",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "When tonight's over, what's the one thing you'll remember?"
+ },
+ {
+  "id": "ao2b2c",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Do you want tonight to end here?"
+ },
+ {
+  "id": "e3t9kl",
+  "level": 7,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Right now?",
+  "options": [
+   "Talk",
+   "Don't"
+  ]
+ },
+ {
+  "id": "v7g8mn",
+  "level": 7,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Right now?",
+  "options": [
+   "Now",
+   "A little later"
+  ]
+ },
+ {
+  "id": "f9w5op",
+  "level": 7,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds, no thinking — say one word for tonight."
+ },
+ {
+  "id": "ao3c3d",
+  "level": 7,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Five seconds — say what you want right now. Don't think."
+ },
+ {
+  "id": "ao4d4e",
+  "level": 7,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 3,
+  "skippable": true,
+  "text": "Three seconds — should tonight end here?"
+ },
+ {
+  "id": "h1z7qr",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "At the same time — one word for what's in your head right now."
+ },
+ {
+  "id": "j7b3st",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "On three, both say \"now\" or \"a little later\"."
+ },
+ {
+  "id": "ao5e5f",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "On three, both say \"stay\" or \"let's go\"."
+ },
+ {
+  "id": "ao6f6g",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time: look at each other, say the first thing that comes up."
+ },
+ {
+  "id": "ao7g7h",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "At the same time — say how you want tonight to end."
+ },
+ {
+  "id": "v8h9uv",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Was there ever a moment you wanted to kiss someone and didn't? Tell me."
+ },
+ {
+  "id": "ao8h8i",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them and say nothing — wait until they speak."
+ },
+ {
+  "id": "ao9i9j",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "If you want, turn your chair toward them and keep talking."
+ },
+ {
+  "id": "ap1j1k",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Tell them what you want right now. One sentence."
+ },
+ {
+  "id": "ap2k2l",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Say one sentence about how tonight goes from here. Not a question."
+ },
+ {
+  "id": "ap3l3m",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, whisper one word."
+ },
+ {
+  "id": "ap4m4n",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Close your eyes, hold out your hand — let them write something on it."
+ },
+ {
+  "id": "n5h1wx",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, put your hand over theirs and leave it there."
+ },
+ {
+  "id": "v9j0yz",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Put your hand on theirs and count to five without looking away."
+ },
+ {
+  "id": "ap5n5o",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, touch your finger to theirs and leave it."
+ },
+ {
+  "id": "ap6o6p",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Hold their eyes and don't look away — until they do."
+ },
+ {
+  "id": "r3n9ab",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want, put the phone down and answer this one just to each other."
+ },
+ {
+  "id": "ci1a1b",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you want."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Reach out and wait."
+   }
+  ]
+ },
+ {
+  "id": "ci2b2c",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Who should close the distance between us?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Close it."
+   }
+  ]
+ },
+ {
+  "id": "ci3c3d",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Do you want to stop, or keep going?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Let go of my hand, or hold it."
+   }
+  ]
+ },
+ {
+  "id": "ci4d4e",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Where should tonight end?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Let go when it ends."
+   }
+  ]
+ },
+ {
+  "id": "ci5e5f",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Where is your line right now?"
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Take my hand, stop at the line."
+   }
+  ]
+ },
+ {
+  "id": "ba1a1b",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do you want me to do?"
+ },
+ {
+  "id": "ba2b2c",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What do you want right now?"
+ },
+ {
+  "id": "ba3c3d",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What did you think when you first saw me — the uncensored version?"
+ },
+ {
+  "id": "ba4d4e",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What did you notice about me first? Skip the polite answer."
+ },
+ {
+  "id": "ba5e5f",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "How do you want tonight to end?"
+ },
+ {
+  "id": "ba6f6g",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What's good for you?"
+ },
+ {
+  "id": "ba7g7h",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Where would you want me to stop?"
+ },
+ {
+  "id": "ba8h8i",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What do you want that you've never said out loud?"
+ },
+ {
+  "id": "ba9i9j",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What do you want to ask me and aren't?"
+ },
+ {
+  "id": "bb1j1k",
+  "level": 8,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Saying it",
+   "Being shown"
+  ]
+ },
+ {
+  "id": "bb2k2l",
+  "level": 8,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Which?",
+  "options": [
+   "Slow",
+   "Certain"
+  ]
+ },
+ {
+  "id": "bb3l3m",
+  "level": 8,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 10,
+  "skippable": true,
+  "text": "Ten seconds — what do you want? Don't think."
+ },
+ {
+  "id": "bc1m1n",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "On three, both say what you think the other one wants."
+ },
+ {
+  "id": "bc2n2o",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time — what's in your head. Unfiltered."
+ },
+ {
+  "id": "bc3o3p",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "On three, both say where you'd want to stop."
+ },
+ {
+  "id": "bc4p4q",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "At the same time — say what you want from the other."
+ },
+ {
+  "id": "bc5q5r",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "At the same time — say what you want tonight to be."
+ },
+ {
+  "id": "bd1r1s",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Ask the thing you're most curious about."
+ },
+ {
+  "id": "bd2s2t",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Name what you like about them. One at a time."
+ },
+ {
+  "id": "bd3t3u",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Say it in their ear. Only them."
+ },
+ {
+  "id": "bd4u4v",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Close your eyes and say what you want. Don't look at them."
+ },
+ {
+  "id": "bd5v5w",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ask them something and don't look away while you wait."
+ },
+ {
+  "id": "bd6w6x",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Tell them what you want them to do. One sentence."
+ },
+ {
+  "id": "bd7x7y",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Tell them something you've never told anyone."
+ },
+ {
+  "id": "bd8y8z",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Say what's in your head right now. Don't soften it."
+ },
+ {
+  "id": "bd9z9a",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Say one thing to them. Then add nothing."
+ },
+ {
+  "id": "be1a1b",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you want."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Whisper it."
+   }
+  ]
+ },
+ {
+  "id": "be2b2c",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you like most about me."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Close your eyes and describe it."
+   }
+  ]
+ },
+ {
+  "id": "be3c3d",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say where you'd want to stop."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Say \"here\" and stop."
+   }
+  ]
+ },
+ {
+  "id": "be4d4e",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you want tonight."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Ask me a question and read my answer."
+   }
+  ]
+ },
+ {
+  "id": "ca1a1b",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "What are you feeling right now?"
+ },
+ {
+  "id": "ca2b2c",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Where do you want me to touch you?"
+ },
+ {
+  "id": "ca3c3d",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What will you do if you want me to stop?"
+ },
+ {
+  "id": "ca4d4e",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "What changes when your eyes are closed?"
+ },
+ {
+  "id": "cb1e5f",
+  "level": 9,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Right now?",
+  "options": [
+   "You lead",
+   "I lead"
+  ]
+ },
+ {
+  "id": "cc1f6g",
+  "level": 9,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 3,
+  "skippable": true,
+  "text": "Three seconds — stop, or keep going?"
+ },
+ {
+  "id": "cd1g7h",
+  "level": 9,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time: what do you want right now?"
+ },
+ {
+  "id": "cd2h8i",
+  "level": 9,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "On three, both say \"slower\" or \"closer\"."
+ },
+ {
+  "id": "cd3i9j",
+  "level": 9,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "At the same time: where should tonight stop?"
+ },
+ {
+  "id": "ce1j1k",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Close your eyes. Let them decide."
+ },
+ {
+  "id": "ce2k2l",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Take their hand. Say nothing."
+ },
+ {
+  "id": "ce3l3m",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Look at them. Say where you're looking."
+ },
+ {
+  "id": "ce4m4n",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Whisper one sentence. Then stop."
+ },
+ {
+  "id": "ce5n5o",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Touch them in one place. Only one."
+ },
+ {
+  "id": "ce6o6p",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Let go. Let them decide where your hands go."
+ },
+ {
+  "id": "ce7p7q",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Close your eyes. Let them do one thing. Just feel it."
+ },
+ {
+  "id": "ce8q8r",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Show them with your hand what you want."
+ },
+ {
+  "id": "ce9r9s",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "One minute of touching. No talking."
+ },
+ {
+  "id": "cf0s1t",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Say stop. Then decide together what comes next."
+ },
+ {
+  "id": "cf1t2u",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Hold them. Count to five before you let go."
+ },
+ {
+  "id": "cf2u3v",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Put the phone down. The rest is yours."
+ },
+ {
+  "id": "cg1v4w",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you want."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Show me."
+   }
+  ]
+ },
+ {
+  "id": "cg2w5x",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say where we stop."
+   },
+   {
+    "kind": "do",
+    "text": "Don't say it. Put my hand there."
+   }
+  ]
+ },
+ {
+  "id": "cg3x6y",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say what you're feeling."
+   },
+   {
+    "kind": "do",
+    "text": "Don't. Close your eyes instead."
+   }
+  ]
+ },
+ {
+  "id": "cg4y7z",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Ask me for something."
+   },
+   {
+    "kind": "do",
+    "text": "Don't ask. Do it."
+   }
+  ]
+ },
+ {
+  "id": "cg5z8a",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say \"keep going\"."
+   },
+   {
+    "kind": "do",
+    "text": "Say nothing. Wait."
+   }
+  ]
+ },
+ {
+  "id": "da1a1b",
+  "level": 10,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "What will you remember from tonight?"
+ },
+ {
+  "id": "da2b2c",
+  "level": 10,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "If you had to say one thing right now, what?"
+ },
+ {
+  "id": "da3c3d",
+  "level": 10,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "How will you tell this tomorrow?"
+ },
+ {
+  "id": "db1d4e",
+  "level": 10,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 3,
+  "skippable": true,
+  "text": "Three seconds — done, or not yet?"
+ },
+ {
+  "id": "dc1e5f",
+  "level": 10,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "At the same time: one word."
+ },
+ {
+  "id": "dc2f6g",
+  "level": 10,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "On three, both give tonight a name."
+ },
+ {
+  "id": "dc3g7h",
+  "level": 10,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "At the same time: keep going, or enough?"
+ },
+ {
+  "id": "dd1h8i",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Five minutes without talking. Put the card away."
+ },
+ {
+  "id": "dd2i9j",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Set one rule for the rest of tonight. You both have to agree."
+ },
+ {
+  "id": "dd3j1k",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ten minutes of nothing. Just be next to each other."
+ },
+ {
+  "id": "dd4k2l",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Say one thing. Don't wait for an answer."
+ },
+ {
+  "id": "dd5l3m",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Take turns asking for one thing. Three each."
+ },
+ {
+  "id": "dd6m4n",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Put the phone across the room. Ten minutes."
+ },
+ {
+  "id": "dd7n5o",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "If you want to, end it here."
+ },
+ {
+  "id": "dd8o6p",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "The cards are done. The rest is yours."
+ },
+ {
+  "id": "de1p7q",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say it now."
+   },
+   {
+    "kind": "do",
+    "text": "Don't. Save it for the morning."
+   }
+  ]
+ },
+ {
+  "id": "de2q8r",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Ask for something."
+   },
+   {
+    "kind": "do",
+    "text": "Don't ask. Give instead."
+   }
+  ]
+ },
+ {
+  "id": "de3r9s",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Say \"stay\"."
+   },
+   {
+    "kind": "do",
+    "text": "Say nothing. Just stay."
+   }
+  ]
+ },
+ {
+  "id": "de4s1t",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Name the best moment of tonight."
+   },
+   {
+    "kind": "do",
+    "text": "Don't name it. Repeat it."
+   }
+  ]
+ },
+ {
+  "id": "de5t2u",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Pick one.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Tell me a secret."
+   },
+   {
+    "kind": "do",
+    "text": "Don't. Keep it for tomorrow."
+   }
+  ]
+ }
+]

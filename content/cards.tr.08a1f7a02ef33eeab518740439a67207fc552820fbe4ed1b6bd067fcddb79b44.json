@@ -1,0 +1,3352 @@
+[
+ {
+  "id": "a3k9qm",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Telefonunda en utandığın uygulama hangisi?"
+ },
+ {
+  "id": "b7m2xr",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Kendine sürekli alıp hiç kullanmadığın şey ne?"
+ },
+ {
+  "id": "c2p5tw",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Sabah uyanınca ilk ne yaparsın? Dürüst."
+ },
+ {
+  "id": "d8r1vz",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "En son ne için boşuna para verdin?"
+ },
+ {
+  "id": "w1a2bc",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Alarmı kaç kere erteliyorsun?"
+ },
+ {
+  "id": "w2b3cd",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Telefonunda kaç sekme açık şu an?"
+ },
+ {
+  "id": "w3c4de",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Evde kimse yokken ne yaparsın?"
+ },
+ {
+  "id": "w4d5ef",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Ertelerken ne yapıyorsun aslında?"
+ },
+ {
+  "id": "w5e6fg",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangi ses seni anında deli ediyor?"
+ },
+ {
+  "id": "w6f7gh",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Bir gün tek bir şey yiyeceksin. Ne?"
+ },
+ {
+  "id": "w7g8hi",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Bir şeyi almadan kaç gün düşünürsün?"
+ },
+ {
+  "id": "e4t7bn",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "İnsanı ilk on saniyede neye bakarak tartarsın?"
+ },
+ {
+  "id": "f9w3hd",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimsenin bilmediği işe yaramaz bir yeteneğin var mı?"
+ },
+ {
+  "id": "g5y8jk",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Herkes normal buluyor ama seni delirten şey ne?"
+ },
+ {
+  "id": "h1z4lp",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangi konuda kimse sormadan konuşmaya başlarsın?"
+ },
+ {
+  "id": "j6b0nq",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Arkadaşların seni nasıl tanıtır?"
+ },
+ {
+  "id": "w8h9ij",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangi gereksiz konuda uzmansın?"
+ },
+ {
+  "id": "w9i0jk",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimsenin anlamadığı bir zevkin var mı?"
+ },
+ {
+  "id": "x1j1kl",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Neye gülüyorsun da kimseye söyleyemiyorsun?"
+ },
+ {
+  "id": "x2k2lm",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Neyde iyi olduğunu sanıyorsun ama değilsin?"
+ },
+ {
+  "id": "x3l3mn",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Sana en çok hangi konuda akıl veriyorlar?"
+ },
+ {
+  "id": "x4m4no",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "En son neyi tamamen yanlış anladın?"
+ },
+ {
+  "id": "x5n5op",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Yanında ne taşıyorsun, kimse bilmiyor?"
+ },
+ {
+  "id": "x6o6pq",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Nerede tam kendin oluyorsun?"
+ },
+ {
+  "id": "x7p7qr",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "İyiyim dışında en sık hangi yalanı söylüyorsun?"
+ },
+ {
+  "id": "x8q8rs",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "En son ne zaman hiç yapmadığın bir şeyi denedin?"
+ },
+ {
+  "id": "x9r9st",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Plan iptal olunca içinden ne geçiyor?"
+ },
+ {
+  "id": "y1s1tu",
+  "level": 1,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "Çayı nasıl içiyorsun? Tarif et."
+ },
+ {
+  "id": "k3d6rs",
+  "level": 1,
+  "type": "question",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "Bugün evden çıkarken aklından ne geçti?"
+ },
+ {
+  "id": "m8f2vt",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangisi daha çok sen?",
+  "options": [
+   "Her şey planlı",
+   "Hiçbir şey planlı değil"
+  ]
+ },
+ {
+  "id": "n4h9wx",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Bir akşamın varsa?",
+  "options": [
+   "Sessiz ve iki kişi",
+   "Kalabalık bir masa"
+  ]
+ },
+ {
+  "id": "y3u3vw",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangisisin?",
+  "options": [
+   "Sabah insanı",
+   "Gece insanı"
+  ]
+ },
+ {
+  "id": "y4v4wx",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangisi?",
+  "options": [
+   "Mesaj",
+   "Arama"
+  ]
+ },
+ {
+  "id": "y5w5xy",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangisi?",
+  "options": [
+   "Erken gelirim",
+   "Tam vaktinde gelirim"
+  ]
+ },
+ {
+  "id": "y6x6yz",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "İptal eden ben olurum",
+   "Bana iptal ettirirler"
+  ]
+ },
+ {
+  "id": "y7y7za",
+  "level": 1,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Kalabalıkta susarım",
+   "Kalabalıkta konuşurum"
+  ]
+ },
+ {
+  "id": "p7j5yz",
+  "level": 1,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "On saniye — bu hafta seni güldüren üç şey say."
+ },
+ {
+  "id": "y8z8ab",
+  "level": 1,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "On saniye — bugünü üç kelimeyle anlat."
+ },
+ {
+  "id": "q2l1ab",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, ikimiz de burada ilk fark ettiğimizi söyleyelim."
+ },
+ {
+  "id": "z1a1bc",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Aynı anda — diğerinin ne iş yaptığını tahmin edelim."
+ },
+ {
+  "id": "z2b2cd",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Üçe kadar sayalım, ikimiz de burayı tek kelimeyle anlatalım."
+ },
+ {
+  "id": "z3c3de",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Aynı anda — diğerinin kaç kardeşi var, tahmin edelim."
+ },
+ {
+  "id": "z4d4ef",
+  "level": 1,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğerinin en sevdiği mevsimi tahmin edelim."
+ },
+ {
+  "id": "z5e5fg",
+  "level": 1,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Buradan görebildiğin bir şey seç. Neden o?"
+ },
+ {
+  "id": "r9n7cd",
+  "level": 1,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "skippable": true,
+  "text": "En son çektiğin fotoğrafı göster. Açıklama yok."
+ },
+ {
+  "id": "a5v3ef",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Çocukken ne olacaktın? Ne zaman vazgeçtin?"
+ },
+ {
+  "id": "b1x8gh",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "İlk kazandığın parayı neye harcadın?"
+ },
+ {
+  "id": "c7z4ij",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Seni en çok şaşırtan yer neresiydi?"
+ },
+ {
+  "id": "aa1b2c",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Büyüdüğün evde en çok hangi ses vardı?"
+ },
+ {
+  "id": "aa2c3d",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "İlk defa tek başına ne yaptın?"
+ },
+ {
+  "id": "aa3d4e",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangi işi denemek isterdin ama denemedin?"
+ },
+ {
+  "id": "aa4e5f",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Ailende sana en çok kim benziyor?"
+ },
+ {
+  "id": "aa5f6g",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Nerede olsan kendini evde hissedersin?"
+ },
+ {
+  "id": "d3b9kl",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aileden aldığın, hiç sorgulamadığın alışkanlık ne?"
+ },
+ {
+  "id": "e9d5mn",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Büyüdüğün yerden tek bir şey alsan, ne?"
+ },
+ {
+  "id": "f4f1op",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimse fark etmiyor ama gurur duyduğun ne var?"
+ },
+ {
+  "id": "g8h6qr",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Seni şekillendirdi ama bunu hiç bilmiyor — kim?"
+ },
+ {
+  "id": "aa6g7h",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Çocukken neyden korkardın?"
+ },
+ {
+  "id": "aa7h8i",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "İlk defa ne zaman kendini yetişkin hissettin?"
+ },
+ {
+  "id": "aa8i9j",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Seni en çok değiştiren yolculuk hangisiydi?"
+ },
+ {
+  "id": "aa9j0k",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "En uzun süre neye sadık kaldın?"
+ },
+ {
+  "id": "ab1k1l",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kim senin için gerçekten emek verdi?"
+ },
+ {
+  "id": "ab2l2m",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bırakmak zorunda kaldığın bir şey var mı?"
+ },
+ {
+  "id": "ab3m3n",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bir şeyin bittiğini nasıl anlarsın?"
+ },
+ {
+  "id": "ab4n4o",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangi dönemi aynen tekrar yaşardın?"
+ },
+ {
+  "id": "ab5o5p",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu ana kadarki en iyi kararın hangisi?"
+ },
+ {
+  "id": "ab6p6q",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimseye söylemediğin küçük bir alışkanlığın var mı?"
+ },
+ {
+  "id": "ab7q7r",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Seni tanıyan biri seni nasıl anlatır?"
+ },
+ {
+  "id": "h2j2st",
+  "level": 2,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "Lise çıkışları nerede takılırdınız?"
+ },
+ {
+  "id": "ab8r8s",
+  "level": 2,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "Yazları nerede geçirirdiniz?"
+ },
+ {
+  "id": "ac1t1u",
+  "level": 2,
+  "type": "question",
+  "scope": "local",
+  "intensity": 2,
+  "text": "Evinizde günün hangi saati belliydi?"
+ },
+ {
+  "id": "j6l7wx",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Hayatını değiştiren ama o an fark etmediğin karar ne?"
+ },
+ {
+  "id": "k1n3yz",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Eskiden emindin, artık düşünmüyorsun bile. Ne?"
+ },
+ {
+  "id": "ac3v3w",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Evde konuşulmayan bir konu var mıydı?"
+ },
+ {
+  "id": "ac4w4x",
+  "level": 2,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Öğrendiğin bir şey sana neye mal oldu?"
+ },
+ {
+  "id": "m7p9ab",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Seni daha çok hangisi anlatıyor?",
+  "options": [
+   "Büyüdüğüm yer",
+   "Kendi seçtiğim yer"
+  ]
+ },
+ {
+  "id": "ac5x5y",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangisi?",
+  "options": [
+   "Geçmişe dönmek",
+   "Geleceği görmek"
+  ]
+ },
+ {
+  "id": "ac6y6z",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Az şeyi çok iyi",
+   "Çok şeyi biraz"
+  ]
+ },
+ {
+  "id": "ac7z7a",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Aynı evde yıllarca",
+   "Birkaç yılda bir yeni şehir"
+  ]
+ },
+ {
+  "id": "ac8a8b",
+  "level": 2,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Aileme benzemek",
+   "Onlardan tamamen farklı olmak"
+  ]
+ },
+ {
+  "id": "ac9b9c",
+  "level": 2,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "On saniye — seni anlatan üç yer say."
+ },
+ {
+  "id": "n3r5gh",
+  "level": 2,
+  "type": "timed",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "seconds": 20,
+  "skippable": true,
+  "text": "Yirmi saniye — hayatını üç cümlede anlat."
+ },
+ {
+  "id": "p9t1cd",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Aynı anda — diğerinin nerede büyüdüğünü tahmin edelim."
+ },
+ {
+  "id": "ad1c1d",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Aynı anda — diğeri nasıl bir çocuktu, tahmin edelim."
+ },
+ {
+  "id": "ad2d2e",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Üçe kadar sayalım, diğerinin ilk işini tahmin edelim."
+ },
+ {
+  "id": "ad3e3f",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — diğeri en uzun neye sadık kaldı, tahmin edelim."
+ },
+ {
+  "id": "ad4f4g",
+  "level": 2,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, bu akşam öğrendiğimiz en şaşırtıcı şeyi söyleyelim."
+ },
+ {
+  "id": "q5v6ef",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "En eski fotoğrafını aç. Hikâyesi ne?"
+ },
+ {
+  "id": "ad5g5h",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Sana bir şey hatırlatan şarkıyı aç. On saniye yeter."
+ },
+ {
+  "id": "ad6h6i",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Çantanda uzun süredir duran bir şey varsa göster."
+ },
+ {
+  "id": "ad7i7j",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Fotoğraflarda rastgele bir aya git. İlk çıkan ne?"
+ },
+ {
+  "id": "ad8j8k",
+  "level": 2,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Sana en çok kim yazıyor?"
+ },
+ {
+  "id": "a2k7ij",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Neyi değiştirmek isteyip vazgeçtin?"
+ },
+ {
+  "id": "b8m3kl",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "İnsanlar seninle ilgili en çok neyi yanlış biliyor?"
+ },
+ {
+  "id": "ae1a1b",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Biri seni övünce ne yaparsın?"
+ },
+ {
+  "id": "ae2b2c",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hata yapınca ilk ne yaparsın?"
+ },
+ {
+  "id": "ae3c3d",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Hangi konuda hâlâ çocuk gibisin?"
+ },
+ {
+  "id": "c4p9mn",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimseye söylemediğin küçük bir korkun var mı?"
+ },
+ {
+  "id": "d1r5op",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangi konuda olduğundan emin görünüyorsun?"
+ },
+ {
+  "id": "e7t1qr",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Sevildiğini ne zaman anlarsın?"
+ },
+ {
+  "id": "f3w8st",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Biri yaklaşınca ilk refleksin ne olur?"
+ },
+ {
+  "id": "g9y4uv",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kendine en çok hangi konuda haksızlık ediyorsun?"
+ },
+ {
+  "id": "ae4d4e",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Birine güvenmen ne kadar sürer?"
+ },
+ {
+  "id": "ae5e5f",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimseye göstermediğin bir tarafın var mı?"
+ },
+ {
+  "id": "ae6f6g",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "İhtiyacım var demek zor mu geliyor?"
+ },
+ {
+  "id": "ae7g7h",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kimseye söylemeyeceğin ne rahatlatıyor seni?"
+ },
+ {
+  "id": "ae8h8i",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "En çok ne zaman yalnız hissediyorsun?"
+ },
+ {
+  "id": "ae9i9j",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Seni en çok ne anlaşılmamış hissettirir?"
+ },
+ {
+  "id": "af1j1k",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kendinle ilgili en son ne değişti?"
+ },
+ {
+  "id": "h5z0wx",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "En son ne zaman birinin yanında ağladın?"
+ },
+ {
+  "id": "j2b6yz",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Birine söylemek isteyip söyleyemediğin ne var?"
+ },
+ {
+  "id": "af2k2l",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Neyi kabul etmek en zoru?"
+ },
+ {
+  "id": "af3l3m",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "İnsanlarla neyi hep tekrar ediyorsun?"
+ },
+ {
+  "id": "af4m4n",
+  "level": 3,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Biri seni gerçekten görse, ne görür?"
+ },
+ {
+  "id": "k8d2ab",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi daha zor?",
+  "options": [
+   "Affetmek",
+   "Unutmak"
+  ]
+ },
+ {
+  "id": "m4f7cd",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisisin?",
+  "options": [
+   "Önce ben açılırım",
+   "Önce onu beklerim"
+  ]
+ },
+ {
+  "id": "af5n5o",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Yalnız kalmak",
+   "Yanlış kişiyle olmak"
+  ]
+ },
+ {
+  "id": "af6o6p",
+  "level": 3,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Anlaşılmamak",
+   "Fark edilmemek"
+  ]
+ },
+ {
+  "id": "n1h3ef",
+  "level": 3,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 15,
+  "skippable": true,
+  "text": "On beş saniye — kendinde sevdiğin üç şey say."
+ },
+ {
+  "id": "af7p7q",
+  "level": 3,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 15,
+  "skippable": true,
+  "text": "On beş saniye — bu yıl kendinle ilgili öğrendiğin üç şey say."
+ },
+ {
+  "id": "q3l5gh",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — birbirimizle ilgili yanıldığımız ilk izlenimi söyleyelim."
+ },
+ {
+  "id": "af8q8r",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğeri neyden çekiniyor, tahmin edelim."
+ },
+ {
+  "id": "af9r9s",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — diğeri bizde neyi fark etti, söyleyelim."
+ },
+ {
+  "id": "ag1s1t",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, şu an neye ihtiyacımız var, söyleyelim."
+ },
+ {
+  "id": "ag2t2u",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "Aynı anda — bu masada en rahat ne zaman hissettik?"
+ },
+ {
+  "id": "p7j9kl",
+  "level": 3,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, şu an içimizden geçeni söyleyelim."
+ },
+ {
+  "id": "r9n1ij",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Bugün onda fark ettiğin bir şeyi söyle."
+ },
+ {
+  "id": "ag3u3v",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Kendinle ilgili hiç söylemediğin bir şey söyle."
+ },
+ {
+  "id": "ag4v4w",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Gözlerini kapat. Şu an ne hissediyorsun? Tek cümle."
+ },
+ {
+  "id": "ag5w5x",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Sor ona: seninle ilgili yanıldığı ne var?"
+ },
+ {
+  "id": "ag6x6y",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Telefonunu ters çevir. Birkaç kart öyle kalsın."
+ },
+ {
+  "id": "ag7y7z",
+  "level": 3,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Bu akşam söyleyemediğin şeyi söyle."
+ },
+ {
+  "id": "a6v2mn",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Beni ilk gördüğünde ne düşündün?"
+ },
+ {
+  "id": "b2x8op",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Birinden hoşlandığını neyle belli edersin?"
+ },
+ {
+  "id": "d4b0qr",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Görünüş dışında seni ne çeker?"
+ },
+ {
+  "id": "ah1a1b",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "İnsanlarda ilk neyi fark edersin — sesini mi, ellerini mi?"
+ },
+ {
+  "id": "ah2b2c",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "İyi bir ilk izlenim neyden oluşur?"
+ },
+ {
+  "id": "e0d6st",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu akşam beklediğinden farklı giden ne oldu?"
+ },
+ {
+  "id": "s1a4uv",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "İlk konuşmada neye bakarsın?"
+ },
+ {
+  "id": "s2b5wx",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Birinin senden hoşlandığını ne zaman anlarsın?"
+ },
+ {
+  "id": "s3c6yz",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Sessizlik seni rahatsız mı eder, rahatlatır mı?"
+ },
+ {
+  "id": "s4d7ab",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Kendini en çok ne zaman çekici hissedersin?"
+ },
+ {
+  "id": "ah3c3d",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Birinden etkilenince çok mu konuşursun, az mı?"
+ },
+ {
+  "id": "ah4d4e",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Biriyle rahatlaman ne kadar sürer?"
+ },
+ {
+  "id": "ah5e5f",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Sende ilk neyi fark etsinler isterdin?"
+ },
+ {
+  "id": "ah6f6g",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Biri seninle ilgilenince ne yaparsın?"
+ },
+ {
+  "id": "ah7g7h",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Flört etmeyi biliyor musun, yoksa kendiliğinden mi oluyor?"
+ },
+ {
+  "id": "ah8h8i",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Arkadaşların senden önce mi anlar?"
+ },
+ {
+  "id": "ah9i9j",
+  "level": 4,
+  "type": "question",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "text": "Bu akşam beni nasıl biri sandın?"
+ },
+ {
+  "id": "g2h8cd",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi daha etkili?",
+  "options": [
+   "Bir bakış",
+   "Bir sessizlik"
+  ]
+ },
+ {
+  "id": "s5e8ef",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi daha zor?",
+  "options": [
+   "İlk adımı atmak",
+   "Beklemek"
+  ]
+ },
+ {
+  "id": "ai1j1k",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Doğrudan söylensin",
+   "Ben anlayayım"
+  ]
+ },
+ {
+  "id": "ai2k2l",
+  "level": 4,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Yavaş yakınlaşma",
+   "Ani kıvılcım"
+  ]
+ },
+ {
+  "id": "h8j4gh",
+  "level": 4,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — bende ilk ne fark ettin? Düşünme."
+ },
+ {
+  "id": "ai3l3m",
+  "level": 4,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — bugün beni ne şaşırttı?"
+ },
+ {
+  "id": "j4l0ij",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Aynı anda — bu akşamın en iyi anı neydi?"
+ },
+ {
+  "id": "s6f9kl",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğerinin bu akşamki bir cümlesini söyleyelim."
+ },
+ {
+  "id": "ai4m4n",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — diğeri bizi ilk görünce ne düşündü, tahmin edelim."
+ },
+ {
+  "id": "ai5n5o",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğerinin en çekici alışkanlığını söyleyelim."
+ },
+ {
+  "id": "ai6o6p",
+  "level": 4,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — birbirimizi tek kelimeyle anlatalım."
+ },
+ {
+  "id": "m6p2mn",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bir iltifat et. Görünüşüyle ilgili olmasın."
+ },
+ {
+  "id": "ai7p7q",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Bu akşam fark ettiğin bir alışkanlığını söyle."
+ },
+ {
+  "id": "ai8q8r",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bak, üçe kadar say, sonra ne gördüğünü söyle."
+ },
+ {
+  "id": "ai9r9s",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Onun senin hakkında ne düşündüğünü tahmin et."
+ },
+ {
+  "id": "aj1s1t",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Bu akşam en çok ne zaman güldün? Anlat."
+ },
+ {
+  "id": "aj2t2u",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Onun hakkında bir tahminde bulun. Doğru mu, söylesin."
+ },
+ {
+  "id": "p8t4op",
+  "level": 4,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Gözlerini kapat. Bu akşamdan aklında kalan ilk görüntü ne?"
+ },
+ {
+  "id": "c8z4qr",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Şu an bende dikkatini çeken bir şey var mı?"
+ },
+ {
+  "id": "a7k3st",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Biri senden hoşlandığını belli edince ne hissedersin?"
+ },
+ {
+  "id": "aj3a1b",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Bu masada ne zaman rahatladın?"
+ },
+ {
+  "id": "t1g2uv",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu akşam bakışını kaçırdığın bir an oldu mu?"
+ },
+ {
+  "id": "b3m9wx",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Birinde seni etkileyen şeyi ne zaman fark edersin?"
+ },
+ {
+  "id": "t2h3yz",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an ne düşünüyorum? Tahmin et."
+ },
+ {
+  "id": "aj4b2c",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an aramızda ne oluyor?"
+ },
+ {
+  "id": "aj5c3d",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Sana bakarken ne düşünüyorum, merak ediyor musun?"
+ },
+ {
+  "id": "aj6d4e",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "İkimizden hangisi daha çok belli ediyor?"
+ },
+ {
+  "id": "aj7e5f",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu akşamı birine nasıl anlatırdın?"
+ },
+ {
+  "id": "aj8f6g",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Beni şaşırtmak isteseydin ne yapardın?"
+ },
+ {
+  "id": "f6f2ab",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Birinden hoşlanınca en çok neyi saklarsın?"
+ },
+ {
+  "id": "t3j4cd",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Bu akşam söylemeyi düşünüp vazgeçtiğin ne var?"
+ },
+ {
+  "id": "aj9g7h",
+  "level": 5,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Bu akşam bana söylemekten en çok ne çekiniyorsun?"
+ },
+ {
+  "id": "t4k5ef",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an hangisi?",
+  "options": [
+   "Yavaşlatmak",
+   "Hızlandırmak"
+  ]
+ },
+ {
+  "id": "ak1h8i",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Göz teması",
+   "Dokunuş"
+  ]
+ },
+ {
+  "id": "ak2i9j",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Belli etmek",
+   "Belli etmemek"
+  ]
+ },
+ {
+  "id": "ak3j1k",
+  "level": 5,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Hangisi?",
+  "options": [
+   "Sen söyle",
+   "Ben söyleyeyim"
+  ]
+ },
+ {
+  "id": "t5m6gh",
+  "level": 5,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — bu akşamı tek kelimeyle söyle."
+ },
+ {
+  "id": "ak4k2l",
+  "level": 5,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — şu an aklından geçeni söyle. Süzme."
+ },
+ {
+  "id": "k0n6ij",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğerinde en çekici bulduğumuzu söyleyelim."
+ },
+ {
+  "id": "ak5l3m",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — diğeri şu an ne düşünüyor, tahmin edelim."
+ },
+ {
+  "id": "ak6m4n",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, bu akşam en yakın hissettiğimiz anı söyleyelim."
+ },
+ {
+  "id": "t6n7kl",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Aynı anda — bu akşam fark edip söylemediğimizi söyleyelim."
+ },
+ {
+  "id": "ak7n5o",
+  "level": 5,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Aynı anda — şu an ne hissediyoruz? Tek kelime."
+ },
+ {
+  "id": "k1d7mn",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Bu kartı okurken yüzün ne yaptı? Ona sor."
+ },
+ {
+  "id": "ak8o6p",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "Bu akşam en çok neyin dikkatini çekti? Söyle."
+ },
+ {
+  "id": "m7f3op",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bakarken beşe kadar say, sonra ilk aklına geleni söyle."
+ },
+ {
+  "id": "ak9p7q",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bak. Gülmeden beşe kadar dayan."
+ },
+ {
+  "id": "al1q8r",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Sus. O konuşana kadar sadece bak."
+ },
+ {
+  "id": "al2r9s",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Bu akşam hakkında tek bir cümle kur. Soru olmasın."
+ },
+ {
+  "id": "al3s1t",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Sandalyeni biraz ona doğru çevir."
+ },
+ {
+  "id": "al4t2u",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Elini masaya koy ve bekle."
+ },
+ {
+  "id": "r0x6qr",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Elini masada, onunkine bir karış uzağa bırak."
+ },
+ {
+  "id": "q4v0st",
+  "level": 5,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "On saniye konuşmadan birbirinize bakın."
+ },
+ {
+  "id": "cg1a1b",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Şu an aramızda ne olduğunu söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Bir saniye fazla bak."
+   }
+  ]
+ },
+ {
+  "id": "cg2b2c",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bu akşam beni şaşırtan şeyi söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elini masada bana yaklaştır."
+   }
+  ]
+ },
+ {
+  "id": "cg3c3d",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Şu an ne düşündüğünü söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Yüzünden okumamı bekle."
+   }
+  ]
+ },
+ {
+  "id": "cg4d4e",
+  "level": 5,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Aramızdaki mesafeyi tarif et."
+   },
+   {
+    "kind": "do",
+    "text": "Tarif etme. Masada elinle göster."
+   }
+  ]
+ },
+ {
+  "id": "u1a2uv",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu akşamın kuralı olmasaydı ilk neyi değiştirirdin?"
+ },
+ {
+  "id": "u2b3wx",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aklından geçeni söylesen ne olur?"
+ },
+ {
+  "id": "u3c4yz",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Arkadaş kalalım deseydik, ilk kim bozardı?"
+ },
+ {
+  "id": "u4d5ab",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Beni öpmeyi düşündüysen, ilk ne zamandı?"
+ },
+ {
+  "id": "am1a1b",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bir şeyi çok isteyince nasıl davranırsın?"
+ },
+ {
+  "id": "am2b2c",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi zor: \"istiyorum\" mu, \"istemiyorum\" mu?"
+ },
+ {
+  "id": "u5e6cd",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Kimsenin haberi olmasa bu akşam ne yapardın?"
+ },
+ {
+  "id": "u6f7ef",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Bu akşamı baştan yaşasan neyi daha erken yapardın?"
+ },
+ {
+  "id": "am3c3d",
+  "level": 6,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Bu akşam ne olsun istiyorsun ama olmayacak?"
+ },
+ {
+  "id": "f7w3gh",
+  "level": 6,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi daha çok etkiler?",
+  "options": [
+   "Beklemek",
+   "Bilmemek"
+  ]
+ },
+ {
+  "id": "u7g8ij",
+  "level": 6,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi daha çok?",
+  "options": [
+   "Söylemek",
+   "Duymak"
+  ]
+ },
+ {
+  "id": "g0y4kl",
+  "level": 6,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — \"keşke\" ile başlayan bir cümle kur."
+ },
+ {
+  "id": "am4d4e",
+  "level": 6,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — bu akşamdan ne isterdin? Düşünme."
+ },
+ {
+  "id": "am5e5f",
+  "level": 6,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 10,
+  "skippable": true,
+  "text": "On saniye — bu akşam nasıl olsun?"
+ },
+ {
+  "id": "h6z0mn",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğerinde aklımızda kalanı söyleyelim."
+ },
+ {
+  "id": "am6f6g",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — bu akşamın hangi anını tekrar yaşardık?"
+ },
+ {
+  "id": "am7g7h",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, diğerinin ne istediğini söyleyelim."
+ },
+ {
+  "id": "j2b6op",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Aynı anda — bu akşam aklımızdan geçip söylemediğimizi söyleyelim."
+ },
+ {
+  "id": "am8h8i",
+  "level": 6,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Aynı anda — bu akşam ne olsun istiyoruz?"
+ },
+ {
+  "id": "k8d2qr",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bakarken \"şu an\" diye başlayan bir cümle kur."
+ },
+ {
+  "id": "n3h9st",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Gözlerini kapat. O bir cümle söylesin, sen sadece dinle."
+ },
+ {
+  "id": "am9i9j",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bak ve \"keşke\" diye başlayan bir cümle söyle."
+ },
+ {
+  "id": "an1j1k",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "…isterdim diye biten bir cümle kur."
+ },
+ {
+  "id": "an2k2l",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Gözlerini kapat ve istediğini tek kelimeyle söyle."
+ },
+ {
+  "id": "an3l3m",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bir şey fısılda. Soru olsun."
+ },
+ {
+  "id": "an4m4n",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Elini uzat ve hiçbir şey söyleme."
+ },
+ {
+  "id": "an5n5o",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Elini masaya koy. Avuç içi yukarı baksın."
+ },
+ {
+  "id": "q2l6uv",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Söyleme — parmağınla onun eline yaz."
+ },
+ {
+  "id": "an6o6p",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Sandalyeni ona bir adım yaklaştır."
+ },
+ {
+  "id": "r8n2wx",
+  "level": 6,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Aranızdaki mesafeyi yarıya indirin, öyle konuşmaya devam edin."
+ },
+ {
+  "id": "ch1a1b",
+  "level": 6,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Kimse görmese bu akşam ne yapardın?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elini masada bana doğru uzat."
+   }
+  ]
+ },
+ {
+  "id": "ch2b2c",
+  "level": 6,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Şu an bir şey isteseydin, ne isterdin?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. İstediğini gözlerinle göster."
+   }
+  ]
+ },
+ {
+  "id": "ch3c3d",
+  "level": 6,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Burada olmasaydık nerede olurduk?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elimi tut ve öyle kal."
+   }
+  ]
+ },
+ {
+  "id": "v1a2yz",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an seni öpsem ne olur?"
+ },
+ {
+  "id": "v2b3ab",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu masadan kalkınca ne olsun istiyorsun?"
+ },
+ {
+  "id": "v3c4cd",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an ne istediğini biliyor musun?"
+ },
+ {
+  "id": "ao1a1b",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Ne sorsam cevaplamazsın?"
+ },
+ {
+  "id": "v4d5ef",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Aramızdaki mesafeyi kim kapatmalı?"
+ },
+ {
+  "id": "v5e6gh",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Sana ne \"dur\" dedirtir?"
+ },
+ {
+  "id": "v6f7ij",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Bu akşamdan aklında ne kalacak?"
+ },
+ {
+  "id": "ao2b2c",
+  "level": 7,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Bu akşam burada mı bitsin?"
+ },
+ {
+  "id": "e3t9kl",
+  "level": 7,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an hangisi?",
+  "options": [
+   "Konuşmak",
+   "Susmak"
+  ]
+ },
+ {
+  "id": "v7g8mn",
+  "level": 7,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Şu an?",
+  "options": [
+   "Şimdi",
+   "Biraz sonra"
+  ]
+ },
+ {
+  "id": "f9w5op",
+  "level": 7,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 2,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — bu akşamdan kalan tek kelimeyi söyle."
+ },
+ {
+  "id": "ao3c3d",
+  "level": 7,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 5,
+  "skippable": true,
+  "text": "Beş saniye — şu an ne istiyorsun? Düşünme."
+ },
+ {
+  "id": "ao4d4e",
+  "level": 7,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 3,
+  "skippable": true,
+  "text": "Üç saniye — bu akşam burada mı bitsin?"
+ },
+ {
+  "id": "h1z7qr",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Aynı anda — şu an aklımızdan geçen tek kelime."
+ },
+ {
+  "id": "j7b3st",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, ikimiz de \"şimdi\" ya da \"biraz sonra\" diyelim."
+ },
+ {
+  "id": "ao5e5f",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, ikimiz de \"kal\" ya da \"gidelim\" diyelim."
+ },
+ {
+  "id": "ao6f6g",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — birbirimize bakıp ilk aklımıza geleni söyleyelim."
+ },
+ {
+  "id": "ao7g7h",
+  "level": 7,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Aynı anda — bu akşam nasıl bitsin istiyoruz?"
+ },
+ {
+  "id": "v8h9uv",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Öpmek isteyip öpmediğin bir an var mı? Anlat."
+ },
+ {
+  "id": "ao8h8i",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bak, hiçbir şey söyleme. O konuşana kadar bekle."
+ },
+ {
+  "id": "ao9i9j",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Sandalyeni ona çevir, öyle konuşmaya devam et."
+ },
+ {
+  "id": "ap1j1k",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Şu an ne istediğini söyle. Tek cümle."
+ },
+ {
+  "id": "ap2k2l",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Bu akşamın devamı için bir cümle kur. Soru olmasın."
+ },
+ {
+  "id": "ap3l3m",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Kulağına tek bir kelime fısılda."
+ },
+ {
+  "id": "ap4m4n",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Gözlerini kapat, elini uzat. O eline bir şey yazsın."
+ },
+ {
+  "id": "n5h1wx",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Elini onunkinin üstüne koy ve öyle bırak."
+ },
+ {
+  "id": "v9j0yz",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Elini onunkine koy, gözünü kaçırmadan beşe kadar say."
+ },
+ {
+  "id": "ap5n5o",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Parmağını onunkine değdir ve öyle bırak."
+ },
+ {
+  "id": "ap6o6p",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Gözünü kaçırma. O kaçırana kadar."
+ },
+ {
+  "id": "r3n9ab",
+  "level": 7,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Telefonu kapatın. Bu kartın cevabını sadece birbirinize verin."
+ },
+ {
+  "id": "ci1a1b",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Ne istediğini söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elini uzat ve bekle."
+   }
+  ]
+ },
+ {
+  "id": "ci2b2c",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Aramızdaki mesafeyi kim kapatmalı?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Sen kapat."
+   }
+  ]
+ },
+ {
+  "id": "ci3c3d",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Durmak mı istiyorsun, devam mı?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elimi bırak ya da tut."
+   }
+  ]
+ },
+ {
+  "id": "ci4d4e",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bu akşam nerede bitsin?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Bittiğinde elimi bırak."
+   }
+  ]
+ },
+ {
+  "id": "ci5e5f",
+  "level": 7,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Şu an sınırın nerede?"
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elimi al, sınırda bırak."
+   }
+  ]
+ },
+ {
+  "id": "ba1a1b",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Ne yapmamı istiyorsun?"
+ },
+ {
+  "id": "ba2b2c",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Şu an ne istiyorsun?"
+ },
+ {
+  "id": "ba3c3d",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Beni ilk gördüğünde ne düşündün? Asıl halini."
+ },
+ {
+  "id": "ba4d4e",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bende ilk ne dikkatini çekti? Kibarlık yok."
+ },
+ {
+  "id": "ba5e5f",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu gece nasıl bitsin?"
+ },
+ {
+  "id": "ba6f6g",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Sana ne iyi gelir?"
+ },
+ {
+  "id": "ba7g7h",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Nerede durmamı istersin?"
+ },
+ {
+  "id": "ba8h8i",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Kimseye söylemediğin ne istiyorsun?"
+ },
+ {
+  "id": "ba9i9j",
+  "level": 8,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Ne sormak istiyorsun da sormuyorsun?"
+ },
+ {
+  "id": "bb1j1k",
+  "level": 8,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Söylemek",
+   "Gösterilmek"
+  ]
+ },
+ {
+  "id": "bb2k2l",
+  "level": 8,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Hangisi?",
+  "options": [
+   "Yavaş",
+   "Kesin"
+  ]
+ },
+ {
+  "id": "bb3l3m",
+  "level": 8,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 10,
+  "skippable": true,
+  "text": "On saniye — ne istiyorsun? Düşünme."
+ },
+ {
+  "id": "bc1m1n",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Üçe kadar sayalım, diğeri ne istiyor, söyleyelim."
+ },
+ {
+  "id": "bc2n2o",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — şu an aklımızdan geçen. Süzme yok."
+ },
+ {
+  "id": "bc3o3p",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, ikimiz de nerede durulsun, söyleyelim."
+ },
+ {
+  "id": "bc4p4q",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Aynı anda — birbirimizden ne istiyoruz?"
+ },
+ {
+  "id": "bc5q5r",
+  "level": 8,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Aynı anda — bu gece ne olsun istiyoruz?"
+ },
+ {
+  "id": "bd1r1s",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 1,
+  "skippable": true,
+  "text": "En çok neyi merak ediyorsun? Sor."
+ },
+ {
+  "id": "bd2s2t",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Onda sevdiğin şeyleri tek tek say."
+ },
+ {
+  "id": "bd3t3u",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Kulağına söyle. Sadece o duysun."
+ },
+ {
+  "id": "bd4u4v",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Gözlerini kapat ve ne istediğini söyle. Ona bakma."
+ },
+ {
+  "id": "bd5v5w",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bir şey sor. Cevabı beklerken gözünü kaçırma."
+ },
+ {
+  "id": "bd6w6x",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Ne yapmasını istiyorsun? Tek cümle."
+ },
+ {
+  "id": "bd7x7y",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Kimseye söylemediğin bir şeyi söyle."
+ },
+ {
+  "id": "bd8y8z",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Şu an aklından geçeni söyle. Yumuşatma."
+ },
+ {
+  "id": "bd9z9a",
+  "level": 8,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Ona bir şey söyle. Sonra hiçbir şey ekleme."
+ },
+ {
+  "id": "be1a1b",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Ne istediğini söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Kulağına fısılda."
+   }
+  ]
+ },
+ {
+  "id": "be2b2c",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bende en çok neyi sevdiğini söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Gözlerini kapat ve tarif et."
+   }
+  ]
+ },
+ {
+  "id": "be3c3d",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Nerede durulsun, söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. \"Burası\" de ve sus."
+   }
+  ]
+ },
+ {
+  "id": "be4d4e",
+  "level": 8,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bu gece ne istiyorsun? Söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Bana bir soru sor, cevabımdan anla."
+   }
+  ]
+ },
+ {
+  "id": "ca1a1b",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 1,
+  "text": "Şu an ne hissediyorsun?"
+ },
+ {
+  "id": "ca2b2c",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Nereye dokunmamı istersin?"
+ },
+ {
+  "id": "ca3c3d",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Durmamı istersen ne yaparsın?"
+ },
+ {
+  "id": "ca4d4e",
+  "level": 9,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Gözlerin kapalıyken ne değişiyor?"
+ },
+ {
+  "id": "cb1e5f",
+  "level": 9,
+  "type": "choice",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Şu an hangisi?",
+  "options": [
+   "Sen yönlendir",
+   "Ben yönlendireyim"
+  ]
+ },
+ {
+  "id": "cc1f6g",
+  "level": 9,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 3,
+  "skippable": true,
+  "text": "Üç saniye — dur mu, devam mı?"
+ },
+ {
+  "id": "cd1g7h",
+  "level": 9,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — şu an ne istiyoruz?"
+ },
+ {
+  "id": "cd2h8i",
+  "level": 9,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, ikimiz de \"daha yavaş\" ya da \"daha yakın\" diyelim."
+ },
+ {
+  "id": "cd3i9j",
+  "level": 9,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Aynı anda — bu gece nerede duralım?"
+ },
+ {
+  "id": "ce1j1k",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Gözlerini kapat. O karar versin."
+ },
+ {
+  "id": "ce2k2l",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Elini tut. Hiçbir şey söyleme."
+ },
+ {
+  "id": "ce3l3m",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bak. Nereye baktığını söyle."
+ },
+ {
+  "id": "ce4m4n",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Kulağına bir cümle fısılda. Sonra sus."
+ },
+ {
+  "id": "ce5n5o",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Ona bir yerine dokun. Sadece bir yerine."
+ },
+ {
+  "id": "ce6o6p",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Ellerini bırak. O nereye koyacağına karar versin."
+ },
+ {
+  "id": "ce7p7q",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Gözlerini kapat. O bir şey yapsın, sen sadece hisset."
+ },
+ {
+  "id": "ce8q8r",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Ne istediğini eliyle göster."
+ },
+ {
+  "id": "ce9r9s",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Bir dakika sadece dokunun. Konuşma yok."
+ },
+ {
+  "id": "cf0s1t",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Dur de. Sonra ne olacağına birlikte karar verin."
+ },
+ {
+  "id": "cf1t2u",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona sarıl. Bırakmadan beşe kadar say."
+ },
+ {
+  "id": "cf2u3v",
+  "level": 9,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Telefonu bırakın. Gerisi size kalmış."
+ },
+ {
+  "id": "cg1v4w",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Ne istediğini söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Göster."
+   }
+  ]
+ },
+ {
+  "id": "cg2w5x",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Nerede duralım, söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Elimi oraya götür."
+   }
+  ]
+ },
+ {
+  "id": "cg3x6y",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Şu an ne hissettiğini anlat."
+   },
+   {
+    "kind": "do",
+    "text": "Anlatma. Gözlerini kapat."
+   }
+  ]
+ },
+ {
+  "id": "cg4y7z",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Benden bir şey iste."
+   },
+   {
+    "kind": "do",
+    "text": "İsteme. Sen yap."
+   }
+  ]
+ },
+ {
+  "id": "cg5z8a",
+  "level": 9,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "\"Devam\" de."
+   },
+   {
+    "kind": "do",
+    "text": "Hiçbir şey söyleme. Bekle."
+   }
+  ]
+ },
+ {
+  "id": "da1a1b",
+  "level": 10,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Bu geceden ne hatırlayacaksın?"
+ },
+ {
+  "id": "da2b2c",
+  "level": 10,
+  "type": "question",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Tek bir şey söylemek zorunda olsan, ne?"
+ },
+ {
+  "id": "da3c3d",
+  "level": 10,
+  "type": "question",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Yarın bunu nasıl anlatırsın?"
+ },
+ {
+  "id": "db1d4e",
+  "level": 10,
+  "type": "timed",
+  "scope": "core",
+  "intensity": 3,
+  "seconds": 3,
+  "skippable": true,
+  "text": "Üç saniye — bitti mi, daha var mı?"
+ },
+ {
+  "id": "dc1e5f",
+  "level": 10,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 2,
+  "text": "Aynı anda — tek kelime."
+ },
+ {
+  "id": "dc2f6g",
+  "level": 10,
+  "type": "duo",
+  "scope": "core",
+  "intensity": 3,
+  "text": "Üçe kadar sayalım, ikimiz de bu gecenin adını koyalım."
+ },
+ {
+  "id": "dc3g7h",
+  "level": 10,
+  "type": "duo",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "text": "Aynı anda — devam mı, yeter mi?"
+ },
+ {
+  "id": "dd1h8i",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Beş dakika konuşmayın. Kartı kapatın."
+ },
+ {
+  "id": "dd2i9j",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Bu gecenin geri kalanı için bir kural koyun. İkiniz de kabul edin."
+ },
+ {
+  "id": "dd3j1k",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "On dakika hiçbir şey yapmayın. Sadece yan yana durun."
+ },
+ {
+  "id": "dd4k2l",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Ona bir şey söyle. Cevap bekleme."
+ },
+ {
+  "id": "dd5l3m",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Sırayla birer şey isteyin. Üçer tane."
+ },
+ {
+  "id": "dd6m4n",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Telefonu odanın öbür ucuna koyun. On dakika."
+ },
+ {
+  "id": "dd7n5o",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "İsterseniz bu geceyi burada bitirin."
+ },
+ {
+  "id": "dd8o6p",
+  "level": 10,
+  "type": "action",
+  "scope": "core",
+  "role": "closer",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Kartlar bitti. Gerisi sizin."
+ },
+ {
+  "id": "de1p7q",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Şimdi söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Sabaha bırak."
+   }
+  ]
+ },
+ {
+  "id": "de2q8r",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 2,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bir şey iste."
+   },
+   {
+    "kind": "do",
+    "text": "İsteme. Sen ver."
+   }
+  ]
+ },
+ {
+  "id": "de3r9s",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "\"Kal\" de."
+   },
+   {
+    "kind": "do",
+    "text": "Hiçbir şey deme. Sadece kal."
+   }
+  ]
+ },
+ {
+  "id": "de4s1t",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bu gecenin en iyi anını söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Tekrarla."
+   }
+  ]
+ },
+ {
+  "id": "de5t2u",
+  "level": 10,
+  "type": "dilemma",
+  "scope": "core",
+  "intensity": 3,
+  "skippable": true,
+  "text": "Birini seç.",
+  "branches": [
+   {
+    "kind": "say",
+    "text": "Bir sır söyle."
+   },
+   {
+    "kind": "do",
+    "text": "Söyleme. Yarına bırak."
+   }
+  ]
+ }
+]

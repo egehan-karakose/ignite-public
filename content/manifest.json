@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "minAppVersion": "1.0.0",
+  "session": {
+    "cardsPerSession": {
+      "min": 12,
+      "max": 15
+    },
+    "warmupCards": {
+      "min": 1,
+      "max": 2
+    },
+    "useCloser": true
+  },
+  "levels": [
+    {
+      "mix": {
+        "question": 0.65,
+        "choice": 0.15,
+        "timed": 0.05,
+        "duo": 0.1,
+        "action": 0.05
+      },
+      "id": 1,
+      "key": "Tanışma",
+      "free": true,
+      "productId": null,
+      "unlock": "single_tap",
+      "ageGate": false,
+      "venue": "public",
+      "color": "#C9B79C"
+    },
+    {
+      "mix": {
+        "question": 0.65,
+        "choice": 0.1,
+        "timed": 0.05,
+        "duo": 0.1,
+        "action": 0.1
+      },
+      "id": 2,
+      "key": "Hikâye",
+      "free": true,
+      "productId": null,
+      "unlock": "single_tap",
+      "ageGate": false,
+      "venue": "public",
+      "color": "#D9A86C"
+    },
+    {
+      "mix": {
+        "question": 0.55,
+        "choice": 0.1,
+        "timed": 0.05,
+        "duo": 0.15,
+        "action": 0.15
+      },
+      "id": 3,
+      "key": "İtiraf",
+      "free": false,
+      "productId": "level_3",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": false,
+      "venue": "public",
+      "color": "#D98B5F"
+    },
+    {
+      "mix": {
+        "question": 0.5,
+        "choice": 0.1,
+        "timed": 0.05,
+        "duo": 0.15,
+        "action": 0.2
+      },
+      "id": 4,
+      "key": "Fark Etme",
+      "free": false,
+      "productId": "level_4",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": false,
+      "venue": "public",
+      "color": "#D9705A"
+    },
+    {
+      "mix": {
+        "question": 0.35,
+        "choice": 0.1,
+        "timed": 0.05,
+        "duo": 0.15,
+        "action": 0.25,
+        "dilemma": 0.1
+      },
+      "id": 5,
+      "key": "Gerilim",
+      "free": false,
+      "productId": "level_5",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": false,
+      "venue": "public",
+      "color": "#CE5451"
+    },
+    {
+      "mix": {
+        "question": 0.25,
+        "choice": 0.05,
+        "timed": 0.1,
+        "duo": 0.15,
+        "action": 0.35,
+        "dilemma": 0.1
+      },
+      "id": 6,
+      "key": "Arzu",
+      "free": false,
+      "productId": "level_6",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": false,
+      "venue": "public",
+      "color": "#B8404F"
+    },
+    {
+      "mix": {
+        "question": 0.2,
+        "choice": 0.05,
+        "timed": 0.1,
+        "duo": 0.15,
+        "action": 0.35,
+        "dilemma": 0.15
+      },
+      "id": 7,
+      "key": "Sınır",
+      "free": false,
+      "productId": "level_7",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": false,
+      "venue": "public",
+      "color": "#96284A"
+    },
+    {
+      "mix": {
+        "question": 0.3,
+        "choice": 0.05,
+        "timed": 0.05,
+        "duo": 0.15,
+        "action": 0.3,
+        "dilemma": 0.15
+      },
+      "id": 8,
+      "key": "Açık",
+      "free": false,
+      "productId": "level_8",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": true,
+      "venue": "private",
+      "color": "#A02A5E"
+    },
+    {
+      "mix": {
+        "question": 0.15,
+        "choice": 0.05,
+        "timed": 0.05,
+        "duo": 0.1,
+        "action": 0.45,
+        "dilemma": 0.2
+      },
+      "id": 9,
+      "key": "Temas",
+      "free": false,
+      "productId": "level_9",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": true,
+      "venue": "private",
+      "color": "#8A2A70"
+    },
+    {
+      "mix": {
+        "question": 0.15,
+        "timed": 0.05,
+        "duo": 0.15,
+        "action": 0.4,
+        "dilemma": 0.25
+      },
+      "id": 10,
+      "key": "Baş Başa",
+      "free": false,
+      "productId": "level_10",
+      "unlock": "dual_hold",
+      "holdSeconds": 3,
+      "ageGate": true,
+      "venue": "private",
+      "color": "#6E2A7A"
+    }
+  ],
+  "locales": {
+    "en": {
+      "pack": "cards.en.9b9f5a18a2bbab968b25a282b96b81fda5265935ad7e95295cb23b76e3403b38.json",
+      "sha256": "9b9f5a18a2bbab968b25a282b96b81fda5265935ad7e95295cb23b76e3403b38",
+      "cardCount": 350
+    },
+    "tr": {
+      "pack": "cards.tr.08a1f7a02ef33eeab518740439a67207fc552820fbe4ed1b6bd067fcddb79b44.json",
+      "sha256": "08a1f7a02ef33eeab518740439a67207fc552820fbe4ed1b6bd067fcddb79b44",
+      "cardCount": 350
+    }
+  },
+  "disabledCardIds": [],
+  "bundles": {
+    "public": {
+      "productId": "bundle_public",
+      "levels": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "private": {
+      "productId": "bundle_private",
+      "levels": [
+        8,
+        9,
+        10
+      ]
+    },
+    "all": {
+      "productId": "bundle_all",
+      "levels": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  }
+}
